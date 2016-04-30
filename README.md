@@ -1,6 +1,7 @@
 Run project
-
 > mvn spring-boot:run
+
+Tests
 > mvn test
 
 Project started on http://localhost:8080
